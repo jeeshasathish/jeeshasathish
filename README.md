@@ -4,11 +4,14 @@
 
 I'm a final-year Computer Science Engineering student passionate about building web applications and exploring Artificial Intelligence.
 
-- 💻 Interested in Full Stack Development
-- 🤖 Learning AI, Generative AI and Agentic AI
-- 🌱 Working with Python, Django and Java
-- 🚀 Building practical projects to improve my development skills
-- 🎯 Looking for Full Stack Developer and AI Engineer internship opportunities
+
+💻 Full Stack Developer passionate about building web applications.
+
+🤖 Exploring AI Engineering, Generative AI, LLMs, and AI-powered applications.
+
+🚀 Interested in combining Full Stack Development with AI to build innovative solutions.
+
+🌱 Continuously learning, improving my technical skills, and exploring new technologies.
 
 ### 🛠️ Technical Skills
 
